@@ -20,7 +20,6 @@ const jonathan = {
   role:         "Fullstack Developer",
   passion:      ["Clean Code", "UI/UX", "Problem Solving"],
   currentFocus: "Building scalable web applications",
-  funFact:      "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
