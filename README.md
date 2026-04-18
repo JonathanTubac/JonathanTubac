@@ -3,14 +3,7 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jonathan%20Tubac&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Guatemala%20🇬🇹&descAlignY=60&descSize=20&descColor=a0d8ef&animation=fadeIn"/>
 
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+ideas+into+reality+💻;Fullstack+Web+Developer+🌐;Always+learning%2C+always+growing+🚀;Open+to+new+challenges+✨" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views + Followers Badges -->
+<!-- Badges de presentación -->
 ![Profile Views](https://komarev.com/ghpvc/?username=jonathantubac&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/jonathantubac?style=for-the-badge&color=0e75b6&labelColor=0d1117&logo=github)](https://github.com/jonathantubac)
 
@@ -22,10 +15,10 @@
 
 ```typescript
 const jonathan = {
-  name:       "Jonathan Javier Tubac Arreaza",
-  location:   "Guatemala City, Guatemala 🇬🇹",
-  role:       "Fullstack Developer",
-  passion:    ["Clean Code", "UI/UX", "Problem Solving"],
+  name:         "Jonathan Javier Tubac Arreaza",
+  location:     "Guatemala City, Guatemala 🇬🇹",
+  role:         "Fullstack Developer",
+  passion:      ["Clean Code", "UI/UX", "Problem Solving"],
   currentFocus: "Building scalable web applications",
 };
 ```
@@ -96,20 +89,9 @@ const jonathan = {
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonathantubac&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontColor=00d4ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
